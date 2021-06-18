@@ -20,6 +20,11 @@
     "description":"Fourth lecture - Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur temporibus qui obcaecati ratione distinctio. Fuga inventore in maxime adipisci quidem maiores aut natus necessitatibus nulla soluta. Necessitatibus maxime rem voluptate!"
 },
 {
+    "thumb":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4CmWAaEBG4fG_W9uLg3B9sBsPjlwi7Zjx5GjFNUTBiUWhbJFKgraICqMnFiR4R1d1Ujg&usqp=CAU",
+    "title":"Rxjs #5",
+    "description":"Fifth lecture - Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur temporibus qui obcaecati ratione distinctio. Fuga inventore in maxime adipisci quidem maiores aut natus necessitatibus nulla soluta. Necessitatibus maxime rem voluptate!"
+},
+{
     "thumb":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8UHiDH9GO1E2XWVUbv_6ukNNLf0LGIKFkoSwrHtZGIDnY-8MRqr67YSlIHSzhn49jqtE&usqp=CAU",
     "title":"Angular #1",
     "description":"1st lecture"
@@ -28,11 +33,26 @@
     "title":"Angular #2",
     "description":"2nd lecture"
 },
+    {
+    "thumb":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8UHiDH9GO1E2XWVUbv_6ukNNLf0LGIKFkoSwrHtZGIDnY-8MRqr67YSlIHSzhn49jqtE&usqp=CAU",
+    "title":"Angular #3",
+    "description":"3rd lecture"
+},
 {
     "thumb":"https://res.cloudinary.com/practicaldev/image/fetch/s--nRLyWy0y--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/buz4t2ckimsj48zieyja.png",
     "title":"React #1",
     "description":"1st lecture"
 },
+    {
+    "thumb":"https://res.cloudinary.com/practicaldev/image/fetch/s--nRLyWy0y--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/buz4t2ckimsj48zieyja.png",
+    "title":"React #2",
+    "description":"2nd lecture"
+},
+    {
+    "thumb":"https://res.cloudinary.com/practicaldev/image/fetch/s--nRLyWy0y--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/buz4t2ckimsj48zieyja.png",
+    "title":"React #3",
+    "description":"3rd lecture"
+}
 {
     "thumb":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBc34aDLZDD6p1Y8kW8RPbYvU788xD8f5kff9Zt2tVZDbvdhDRQRBjy_ZgiYK7XNwu5HUl8XNjh1HcQA&usqp=CAU",
     "title":"Redux #1",
@@ -43,7 +63,15 @@
     "description":"2nd lecture"
 },{
     "thumb":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtx9pNNIBBQIySdRljSwJ9kqmUuYzMTpow08uvmjM4xHQkD0_si-PLoZk4v4sBP3wDUTo&usqp=CAU",
+    "title":"Bootstrap #2",
+    "description":"2nd lecture"
+},{
+    "thumb":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtx9pNNIBBQIySdRljSwJ9kqmUuYzMTpow08uvmjM4xHQkD0_si-PLoZk4v4sBP3wDUTo&usqp=CAU",
     "title":"Bootstrap #1",
     "description":"1st lecture"
+},{
+    "thumb":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtx9pNNIBBQIySdRljSwJ9kqmUuYzMTpow08uvmjM4xHQkD0_si-PLoZk4v4sBP3wDUTo&usqp=CAU",
+    "title":"Bootstrap #3",
+    "description":"3rd lecture"
 }
 ]}
